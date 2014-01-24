@@ -9,6 +9,8 @@
     "comment-eviter-le-bazar.md",
     [
         "github.md",
-        "repository.md"
-    ]
+        "repository.md",
+        "commit.md"
+    ],
+    "commit-avec-code-en-fragment-index.md"
 ]
