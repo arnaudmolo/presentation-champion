@@ -5,3 +5,6 @@
 - Un dossier ou vous avez fait des checkpoints de votre code <!-- .element: class="fragment" data-fragment-index="2" -->
 
 Et c'est tout. BG. <!-- .element: class="fragment" data-fragment-index="3" -->
+
+Note:
+  commence a faire un dessin, gere un point

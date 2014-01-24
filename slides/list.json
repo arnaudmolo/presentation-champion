@@ -10,7 +10,12 @@
     [
         "github.md",
         "repository.md",
-        "commit.md"
-    ],
-    "commit-avec-code-en-fragment-index.md"
+        "commit.md",
+        {
+            "filename": "branches.md",
+            "attr": {
+                "data-background": "/images/holy-grail.jpg"
+            }
+        }
+    ]
 ]

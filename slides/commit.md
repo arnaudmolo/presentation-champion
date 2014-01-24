@@ -13,5 +13,5 @@ Regarderas uniquement les fichiés déjà ajoutés à la précédente sauvegarde
 > -m: permet d'ajouter le message à la volée <!-- .element: class="fragment" data-fragment-index="3" -->
 
 ``` 
-git commit -am "commit" 
+git commit -am "Le nom de mon commit" 
 ``` <!-- .element: class="fragment" data-fragment-index="4" -->
