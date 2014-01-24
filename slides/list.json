@@ -8,6 +8,7 @@
     ],
     "comment-eviter-le-bazar.md",
     [
-      "github.md"
+        "github.md",
+        "repository.md"
     ]
 ]
