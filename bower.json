@@ -1,0 +1,7 @@
+{
+  "name": "gerer-son-projet-de-dev-comme-un-champion",
+  "version": "0.0.0",
+  "dependencies": {
+    "reveal.js": "~2.6.1"
+  }
+}

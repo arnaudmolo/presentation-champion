@@ -1,0 +1,7 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Gérer son projet de dev comme un champion",
+    "packageVersion": "0.0.0",
+    "useSass": true
+  }
+}
