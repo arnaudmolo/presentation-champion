@@ -16,6 +16,12 @@
             "attr": {
                 "data-background": "/images/holy-grail.jpg"
             }
-        }
+        },
+        "branches-principe.md",
+        "branches-nomenclatures.md",
+        "branches-commandes-1.md",
+        "branches-commandes-2.md",
+        "branches-principe-suite.md",
+        "branches-principe-fin.md"
     ]
 ]
